@@ -12,3 +12,14 @@
     }
   })
 ```
+
+### Uncaught ReferenceError: process is not defined
+
+```
+  mainWindow = new BrowserWindow({
+    webPreferences: {
+      preload: path.join(__dirname, 'preload.js'),
+      nodeIntegration: true 
+    }
+  })
+```
