@@ -23,3 +23,12 @@
     }
   })
 ```
+
+### Disable Parent Window
+
+```
+    parent: mainWindow,
+    modal: true, 
+```
+
+*Add it into BrowserWindow method*
