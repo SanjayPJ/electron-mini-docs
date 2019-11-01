@@ -8,3 +8,4 @@ Electon Mini Documentation
 - [Creating Window](window.md)
 - [Inter-Process Communication](ipc.md)
 - [Notification](notification.md)
+- [App Deployment](deployment.md)
