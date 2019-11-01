@@ -2,6 +2,7 @@
 Electon Mini Documentation
 
 - [Hello World](hello.md)
+- [File Structure](filestructure.md)
 - [Basics](basic.md)
 - [Working with Electron Menus](menu.md)
 - [Creating Window](window.md)
