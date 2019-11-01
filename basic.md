@@ -32,3 +32,10 @@
 ```
 
 *Add it into BrowserWindow method*
+
+### Get Current Window and close
+
+```
+  var window = remote.getCurrentWindow();
+  window.close();
+```
