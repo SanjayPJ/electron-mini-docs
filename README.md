@@ -7,3 +7,4 @@ Electon Mini Documentation
 - [Working with Electron Menus](menu.md)
 - [Creating Window](window.md)
 - [Inter-Process Communication](ipc.md)
+- [Notification](notification.md)
