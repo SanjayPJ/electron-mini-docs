@@ -3,5 +3,5 @@ Electon Mini Documentation
 
 - [Hello World](hello.md)
 - [Basics](basic.md)
-- [Menu bar](menu.md)
+- [Working with Electron Menus](menu.md)
 - [Creating Window](window.md)
