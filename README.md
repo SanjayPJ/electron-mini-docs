@@ -5,3 +5,4 @@ Electon Mini Documentation
 - [Basics](basic.md)
 - [Working with Electron Menus](menu.md)
 - [Creating Window](window.md)
+- [Inter-Process Communication](ipc.md)
