@@ -8,6 +8,7 @@ npm install --save sqlite3
 
 ```
 "rebuild": "electron-rebuild -f -w sqlite3"
+```
 
 ```
 npm run rebuild
