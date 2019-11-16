@@ -9,3 +9,4 @@ Electon Mini Documentation
 - [Inter-Process Communication](ipc.md)
 - [Notification](notification.md)
 - [App Deployment](deployment.md)
+- [Mysql Connection](mysql.md)
