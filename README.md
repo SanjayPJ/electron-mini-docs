@@ -10,3 +10,4 @@ Electon Mini Documentation
 - [Notification](notification.md)
 - [App Deployment](deployment.md)
 - [Mysql Connection](mysql.md)
+- [Sqlite Connection](sqlite.md)
