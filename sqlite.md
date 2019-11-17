@@ -25,3 +25,13 @@ db.serialize(function() {
     console.log("Data inserted successfully");
 });
 ```
+*Loop Through*
+
+```
+db.serialize(function() {
+    db.each("SELECT rowid AS id, info FROM user_info", function(err, row) {
+        // console.log(row.id + ": " + row.info);
+        console.log(row);
+    });
+});
+```
