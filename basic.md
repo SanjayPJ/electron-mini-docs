@@ -39,3 +39,9 @@
   var window = remote.getCurrentWindow();
   window.close();
 ```
+
+### Refresh a window
+
+```
+mainWindow.reload()
+```
