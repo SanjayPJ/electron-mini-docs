@@ -51,3 +51,10 @@ mainWindow.reload()
 ```
 loginWindow.setMenuBarVisibility(false)
 ```
+
+### IPC while creating new window
+
+```
+mainWindow.rendererSideName = somethingIWantToShare;
+remote.getCurrentWindow().rendererSideName.myFunction();
+```
