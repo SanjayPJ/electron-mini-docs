@@ -45,3 +45,9 @@
 ```
 mainWindow.reload()
 ```
+
+### Hide Menubar
+
+```
+loginWindow.setMenuBarVisibility(false)
+```
