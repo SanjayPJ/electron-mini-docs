@@ -1,17 +1,18 @@
 ## Sqlite
 
-```
-npm install --save-dev electron-rebuild
-npm install --save sqlite3
-```
 *Add this into scripts under package.json*
 
 ```
-"rebuild": "electron-rebuild -f -w sqlite3"
+"scripts": {
+   "postinstall": "install-app-deps"
+   ...
+}
 ```
 
 ```
-npm run rebuild
+npm install --save-dev electron-builder
+npm install --save sqlite3
+npm run postinstall
 ```
 
 ```
