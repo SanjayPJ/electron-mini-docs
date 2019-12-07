@@ -11,3 +11,4 @@ Electon Mini Documentation
 - [App Deployment](deployment.md)
 - [Mysql Connection](mysql.md)
 - [Sqlite Connection](sqlite.md)
+- [Create Packages for MAC/WIN/LIN](packager.md)
